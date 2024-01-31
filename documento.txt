@@ -1,0 +1,6 @@
+Registro Civil Ecuador
+NUI:0605370238
+Nombre del Certificado: Certificado de Nacimiento
+No.certificado:201-316-34202
+Fecha de emision: 8/6/2020
+URL de verificacion:https://apps.registrocivil.gob.ec/portalCiudadano
